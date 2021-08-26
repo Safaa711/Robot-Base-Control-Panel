@@ -1,3 +1,3 @@
--Base control interface design using HTML, CSS.
+- Base control interface design using HTML, CSS.
 
--Creating a base control database.
+- Creating a base control database.
