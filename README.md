@@ -1,2 +1,3 @@
-# Robot Base Control Panel
- User interface design and impelementaion for robot base controlling system, using HTML,CSS, and PHP languages.
+-Base control interface design using HTML, CSS.
+
+-Creating a base control database.
