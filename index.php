@@ -12,7 +12,7 @@
 		
             <h2> Control Panel </h2>
 
-	     <form method="post" action="index.php"/>
+	     <form method="post" action="index.html"/>
 		 <div class=buttons>
             <input type="submit" id="btn1" value="FORWARD" name="forward"/>
             <div class='buttons2'>
@@ -26,6 +26,7 @@
           </form>
 		
 		</div>
+		
 		
 	</body>
 
